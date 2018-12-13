@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Gree Tech Prog built the Keyboard Fix app as a Free app. This SERVICE is provided by [Dev] at no cost and is intended for use as is.
+Gree Tech Prog built the Keyboard Fix app as a Free app. This SERVICE is provided by Gree Tech Prog at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
