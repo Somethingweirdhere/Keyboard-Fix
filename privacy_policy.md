@@ -8,7 +8,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain information, including but not limited to the currently running Services, the state of the WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe process and the Foreground application. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain information, including but not limited to the currently running Services, the state of the WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe process, used applications, domain name and machine name. The information that I request will be retained on your device and is not collected by me in any way.
 
 **Log Data**
 
